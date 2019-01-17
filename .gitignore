@@ -1,3 +1,4 @@
 *.xml
 .idea/
-reports/
+reports/*.html
+res1/*.html
